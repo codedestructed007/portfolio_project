@@ -88,7 +88,7 @@ DATABASES = {
     }
 }
 
-
+# just a test to cheak pull is working correctly or not
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators
 
